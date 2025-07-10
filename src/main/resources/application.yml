@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: spring-ai-rafael
+  ai:
+    openai:
+      api-key: ${OPENAPI_KEY}
